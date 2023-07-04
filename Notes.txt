@@ -1,1 +1,63 @@
+Ethical Hacking  -  Refers to the act of locating weakness and vulnerabilities of computer and information systems by replicating the intent and actions of malicious hackers. It is also known as Penetration testing, Intrusion testing or Red Teaming.
+
+INTRODUCTION-
+Ethical Hackers  -  Employed by companies to perform penetration testing.
+Penetration testing  -  Legal attempt to break into the company's network to find the weak links. Testers only report findings, does not provide solutions.
+Security test  -  Also includes analyzing company's security policy and procedures. Tester offers solutions to secure or protect the network.
+
+TERMINOLOGIES-
+Hacking  -  Showing computer expertise.
+Cracking  -  Breaching security on software or systems.
+Spoofing  -  Faking the originating IP address in a datagram.
+Denial of Service(DoS)  -  Flooding a host with sufficient network traffic so that it cannot respond anymore.
+Port Scanning  -  Searching for vulnerabilities(IMPORTANT).
+
+GAINING ACCESS-
+Front Door  -  Password guessing. Password/key stealing.
+Back Door  -  Often left by original developers as debug and/or diagnostic tools.
+Trojan Horse  -  Usually hidden inside of software that we download download and install from the net. Many install backdoors.
+Software vulnerability exploitation  -  Often advertised on the OEMs web site along with security patches. Fertile ground for script kiddies looking for something to do.
+
+ONCE INSIDE - THE HACKER CAN-
+Modify logs  -  To cover their tracks.
+Steal files  -  Sometimes destroy after stealing. An expert hacker would steal and cover their tracks to remain undetected.
+Modify files  -  To let you know they were there. To cause mischief.
+Install back doors  -  So they can get in again.
+Attack other systems in the network
+
+ROLE OF SECURITY AND PENETRATION TESTERS-
+Script kiddies or packet monkeys  -  Young or inexperienced hackers, Copy codes and techniques from knowledgeable hackers.
+Experienced penetration testers write programs or script using  -  Perl, C, C++, JS, Visual Basic, SQL, and many others.
+
+PENERATION TESTING METHEDOLOGIES-
+Tiger box  -  Collection of OSs and hacking tools. Usually on a laptop. Help penetration testers and security testers to conduct vulnerabilitues assessments and attacks.
+White box model  -  Tester is told everything about the network topology and technology. Tester is authorized to interview IT personnel and company employees. Makes tester's job a little easier.
+Black box model  -  Tester is not given details about the network. Burden is on the tester to find the details.
+Gray box model  -  Hybrid of white and black box models. Company gives tester partial information.
+
+WHAT CAN YOU DO LEGALLY-
+Laws involving technology change as rapidly as technology itseft.
+Find what is legal for you locally. Laws change from place to place.
+Be aware of what is allowed and what is not allowed.
+
+LAWS OF THE LAND-
+Tools on your computer might be illegal to process.
+Contact local law enforcement agencies before installing hacking tools.
+Written words are open to inteepretation.
+Government are getting more serious about punishment for cybercrimes.
+Accessing a computer without permission is illegal.
+Other illegal actions. Install worms or viruses. DoS attacks. Denying users access to network resources.
+Be careful your actions do not prevent customers from doing their jobs.
+
+ETHICAL HACKING IN A NUTSHELL-
+What it takes to be a security tester  -  Knowledge of network and computer technology. Ability to communicate with management and IT personnel. Unerstanding of the lawa. Ability to use necessary tools.
+
+IN THIS COURSE-
+Relevant networking technologies.
+Basic cryptographic concepts.
+Case studies of secure applications.
+Unconventional attacks.
+Tools demonstration.
+
+------------------------------------------------------------------------------------------------------------------------
 

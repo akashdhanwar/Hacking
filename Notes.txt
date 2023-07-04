@@ -62,4 +62,7 @@ Tools demonstration.
 ------------------------------------------------------------------------------------------------------------------------
 
 BASIC CONCEPTS OF NETWORKING (PART-I)
+Types of computer networks
+Circuit switching and packet switching
+Virtual circuits
 
